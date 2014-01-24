@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.articulosiete.app.noticias"
+    version   = "0.1.0">
+
+<name>PhoneGap Build Application</name>
+<preference name="exit-on-suspend" value="true" />
+
+<description>
+Aplicacion movil para las notas al momento
+</description>
+
+<author href="https://articulosiete.com" email="you@example.com">
+Articulo Siete
+</author>
+
+<access origin="*" />
+</widget>
